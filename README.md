@@ -10,7 +10,7 @@ I am a passionate Software Engineer, Ethical Hacker, AI Enthusiast, Full Stack D
 ![Stars](https://img.shields.io/github/stars/Fravieror?style=social)
 
 - 🔭 I’m currently working at [Exit83](https://exit83.com)
-- 🌱 I’m currently learning Applied AI & ML and cloud computing
+- 🌱 I’m currently learning Applied AI & ML
 - 👯 I’m looking to collaborate on innovative open-source projects
 - 💬 Ask me about Software development, AI, and tech in general
 - 📫 How to reach me: [lfravierl@gmail.com](mailto:lfravierl@gmail.com)
