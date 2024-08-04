@@ -1,6 +1,6 @@
 # 💻 Javier Diaz
 
-![Header](https://example.com/your-header-image.png)
+<!-- ![Header](https://example.com/your-header-image.png) -->
 
 ## Hi there, I'm Javier Diaz 👋
 
@@ -8,7 +8,6 @@ I am a passionate Software Engineer, Ethical Hacker, AI Enthusiast, Full Stack D
 
 ![Followers](https://img.shields.io/github/followers/Fravieror?style=social)
 ![Stars](https://img.shields.io/github/stars/Fravieror?style=social)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Fravieror.Fravieror)
 
 - 🔭 I’m currently working at [Exit83](https://exit83.com)
 - 🌱 I’m currently learning Applied AI & ML and cloud computing
