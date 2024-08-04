@@ -4,7 +4,7 @@
 
 ## Hi there, I'm Javier Diaz 👋
 
-I am a passionate Software Engineer, Ethical Hacker, AI Enthusiast, Full Stack Developer, Programmer. I love exploring new technologies and leveraging them to solve real-life problems.
+I am a passionate Software Engineer, Ethical Hacker, AI Enthusiast, Full Stack Developer, and Programmer. I love exploring new technologies and leveraging them to solve real-life problems.
 
 ![Followers](https://img.shields.io/github/followers/Fravieror?style=social)
 ![Stars](https://img.shields.io/github/stars/Fravieror?style=social)
