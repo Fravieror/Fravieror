@@ -14,6 +14,8 @@ I am a passionate Software Engineer, Ethical Hacker, AI Enthusiast, Full Stack D
 - 👯 I’m looking to collaborate on innovative open-source projects
 - 💬 Ask me about Software development, AI, and tech in general
 - 📫 How to reach me: [lfravierl@gmail.com](mailto:lfravierl@gmail.com)
+- 📁 Work Github repository [Other repos](https://github.com/ITPipesJavier) 
+
 
 ## 🛠️ Technologies & Tools
 
@@ -64,4 +66,3 @@ I am a passionate Software Engineer, Ethical Hacker, AI Enthusiast, Full Stack D
 
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fravieror.github.io/personal-webpage)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-diaz-8b990b17b/)
-[Other repos](https://github.com/ITPipesJavier) 
