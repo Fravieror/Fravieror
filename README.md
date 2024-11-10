@@ -64,3 +64,4 @@ I am a passionate Software Engineer, Ethical Hacker, AI Enthusiast, Full Stack D
 
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fravieror.github.io/personal-webpage)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-diaz-8b990b17b/)
+[Other repos](https://github.com/ITPipesJavier) 
