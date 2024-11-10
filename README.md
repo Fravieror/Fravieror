@@ -14,7 +14,7 @@ I am a passionate Software Engineer, Ethical Hacker, AI Enthusiast, Full Stack D
 - 👯 I’m looking to collaborate on innovative open-source projects
 - 💬 Ask me about Software development, AI, and tech in general
 - 📫 How to reach me: [lfravierl@gmail.com](mailto:lfravierl@gmail.com)
-- 📁 Work Github repository
+- 📁 Work Github repositories
   [ITPipes](https://github.com/ITPipesJavier)
   [Mercado Libre](https://github.com/javierDiazMeLi)                          
 
