@@ -78,4 +78,3 @@ PostgreSQL · SQL Server · MySQL · MongoDB · Cassandra · Redis
 
 Website: https://flowsgent.com
 LinkedIn: https://www.linkedin.com/in/javier-diaz-8b990b17b/  
-Email: lfravierl@gmail.com  
